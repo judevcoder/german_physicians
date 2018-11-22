@@ -1,0 +1,512 @@
+ID,name,formatted_address,lon,lat
+0,Labor Dr. Brunner,"Luisenstraße 7e, 78464 Konstanz, Germany",9.1877493,47.673263
+1,MLM Medical Labs GmbH,"Dohrweg 63, 41066 Mönchengladbach, Germany",6.47495,51.211666
+3,SYNLAB Medizinisches Versorgungszentrum Humangenetik Freiburg GmbH,"Heinrich-von-Stephan-Straße 5, 79100 Freiburg im Breisgau, Germany",7.83564,47.98786
+6,"Bioscientia Institut für Medizinische Diagnostik GmbH, Labor Freiburg","Mülhauser Str. 9, 79110 Freiburg im Breisgau, Germany",7.826919999999999,48.01126
+7,Vetalab GmbH,"Elisabethenstraße 11, 88212 Ravensburg, Germany",9.623389999999999,47.78924
+8,Hegau-Bodensee-Klinikum II. Medizinische Klinik Zentrallabor,"Virchowstraße 10, 78224 Singen (Hohentwiel), Germany",8.8213191,47.7597818
+243,ALOMED Analytisches Labor Dr. Werner Müller,"Öschlestraße 77, 78315 Radolfzell am Bodensee, Germany",8.943953700000002,47.7505148
+246,"Schlaflabor Konstanz, SOMNEON","Bahnhofstraße 12, 78462 Konstanz, Germany",9.175675799999999,47.6590224
+279,Labor Dr. Merk & Kollegen GmbH,"Beim Braunland 1, 88416 Ochsenhausen, Germany",9.94474,48.07735
+282,synlab Ulm Medizinisches Versorgungszentrum Ulm GmbH,"Oberer Eselsberg 44, 89073 Ulm, Germany",9.9452432,48.4243872
+584,Randox Laboratories GmbH,"Kimplerstraße 288, 47807 Krefeld, Germany",6.5676044,51.3025718
+775,Ehret GmbH & Co. KG Labor- und Pharmatechnik,"Fabrikstraße 2, 79312 Emmendingen, Germany",7.877949999999999,48.10087
+776,Laborärzte Singen,"Virchowstraße 10C, 78224 Singen (Hohentwiel), Germany",8.823350000000001,47.75959
+778,Schlaflabor Breisgau,"Am Kurpark 1, 79189 Bad Krozingen, Germany",7.691459699999999,47.9171294
+780,Labor für DNA-Analytik,"Klarastraße 66, 79106 Freiburg im Breisgau, Germany",7.8375989,47.9957546
+784,Labor Becker & Kollegen,"Kalchstraße 12, 87700 Memmingen, Germany",10.1835116,47.9864085
+787,Vet Med Labor GmbH,"Fliederstraße 29, 88339 Bad Waldsee, Germany",9.761605099999999,47.9312666
+789,Eurofins Umweltlabor Dr Gartner,"Ettishofer Str. 12, 88250 Weingarten, Germany",9.632539999999999,47.81309
+790,"MVZ Labor Ravensburg, Labor Dr. Gärtner","Elisabethenstraße 11, 88212 Ravensburg, Germany",9.623389999999999,47.78924
+791,Medizinisch-Diagnostisches Labor Kempten,"Augartenweg 20, 87437 Kempten (Allgäu), Germany",10.3219651,47.7309359
+797,SYNLAB Analytics & Services Germany GmbH,"Pettenkoferstraße 1, 87439 Kempten (Allgäu), Germany",10.30423,47.73118
+803,SKA Labor GmbH,"Schallerin 1, 86911 Dießen am Ammersee, Germany",11.0854963,47.9807264
+805,Schubert & Weiss Omnilab GmbH & Co.KG,"Saliterstraße 50, 87616 Marktoberdorf, Germany",10.6267971,47.77228299999999
+806,Otoplastik-Labor Markus Maier GmbH,"Fabrikstraße 62, 88171 Weiler-Simmerberg, Germany",9.9043152,47.5763322
+811,Synlab,"Robert-Koch-Allee 2, 82131 Gauting, Germany",11.35341,48.06635
+813,Dentallabor Krutsch,"Siplingerstraße 41, 87527 Sonthofen, Germany",10.2645069,47.52516019999999
+814,Center for Human Genetics and Laboratory Medicine (MVZ),"Lochhamer Str. 29, 82152 Planegg, Germany",11.4516238,48.112372
+1012,Akutlabor-Spital GmbH,"Elisabethenstraße 11, 88212 Ravensburg, Germany",9.623389999999999,47.78924
+1522,Schneemann Rolf Fachlabor Für Kieferorthopädie und Schnarchtherapiegeräte,"Im Stuvert 22, 26506 Norden, Germany",7.19183,53.60218
+1524,Invitalab-lmva GmbH & Co. KG,"Mühlenstraße 120, 26789 Leer (Ostfriesland), Germany",7.46178,53.23139
+1528,Synlab Labormedizinisches Versorgungszentrum Jade-Weser GmbH,"Bleichenpfad 9, 26316 Varel, Germany",8.13963,53.39257
+1529,Schlaflabor WHV,"Friedrich-Paffrath-Straße 98, 26389 Wilhelmshaven, Germany",8.0847067,53.5453346
+1530,SYNLAB Medizinisches Versorgungszentrum Jade-Weser GmbH,"Beethovenstraße 2, 26316 Varel, Germany",8.1398,53.39077
+1538,Medical Laboratory Hamburg Stephansplatz,"Stephansplatz 3, 20354 Hamburg, Germany",9.9884813,53.5578544
+1541,Labor-Cuxhaven / ftb osterloh,"Am Querkamp 19, 27474 Cuxhaven, Germany",8.6764,53.85621
+1545,Medizinisches Labor Bremen,"Haferwende 12, 28357 Bremen, Germany",8.8804965,53.1107935
+1548,Pharao Dentaltechnik F.Laux und S.Davidsmeyer - Dentallabor Bremen,"Kirchbachstraße 186, 28211 Bremen, Germany",8.8539241,53.0828157
+1549,Ole Swensson Dermatohistologisches Labor,"Kattrepel 3, 27404 Zeven, Germany",9.2771627,53.2933236
+1554,Laborfabrik GmbH Effiziente Laboreinrich- tungen,"Heerenholz 17, 28307 Bremen, Germany",8.964458,53.046322
+1564,AescuLabor - Hamburg GmbH,"Haferweg 36, 22769 Hamburg, Germany",9.93759,53.57202
+1568,Chemisches Laboratorium Dr. Hermann Ulex Nachf.,"Mörkenstraße 7, 22767 Hamburg, Germany",9.945519899999999,53.5492848
+1570,Gemeinschaftspraxis für Humangenetik und Genetische Labore - DNA Diagnostik Hamburg,"Altonaer Str. 63, 20357 Hamburg, Germany",9.963792999999999,53.5650853
+1574,Schlumbohm Medizin-Labor-Technologie GmbH,"Grenzkehre 1, 21079 Hamburg, Germany",9.98369,53.41625
+1575,MEDIPLEX Kompetenz-Partner Labor Dr. Fenner & Kollegen,"Bergstraße 14, 20095 Hamburg, Germany",9.9957652,53.5509029
+1577,SYNLAB Medizinisches Versorgungszentrum Hamburg GmbH,"Horner Landstraße 304, 22111 Hamburg, Germany",10.08516,53.547
+1578,Pro-lab GmbH,"Brandshofer Deich 27, 20539 Hamburg, Germany",10.028058,53.538753
+1579,GLP laboratories GmbH,"21079 Hamburg, Germany",10.00549,53.45375
+1581,Labor Dr. Heidrich & Kollegen MVZ GmbH,"Stuvkamp 22, 22081 Hamburg, Germany",10.0441137,53.5787919
+1582,Labor Lademannbogen MVZ GmbH,"Lademannbogen 61, 22339 Hamburg, Germany",10.0281899,53.642292
+1584,BRIMON Laborbedarf + Feinchemikalien,"Horner Landstraße 404, 22111 Hamburg, Germany",10.09361,53.54228999999999
+1585,amedes Medizinisches Versorg ungszentrum f. Labor.medizin Mikrobio. und Genetik HH GmbH,"Haferweg 36, 22769 Hamburg, Germany",9.937595,53.5720781
+1588,synlab.vet GmbH,"Schillerstraße 29, 21502 Geesthacht, Germany",10.3724799,53.4329148
+1589,LABOR STABER Hamburg,"86, Holzmühlenstraße 84, 22041 Hamburg, Germany",10.078829,53.5836954
+1592,Dermatological laboratory,"Maria-Goeppert-Straße 5, 23562 Lübeck, Germany",10.6958552,53.8344744
+1594,Atto-lab GmbH,"Maria-Goeppert-Straße 1, 23562 Lübeck, Germany",10.6973258,53.8350193
+1596,Labor MVZ Westmecklenburg - Außenstandort Gusanum,"Wismarsche Str. 132-134, 19053 Schwerin, Germany",11.409795,53.630223
+1599,Laborärztliche Gemeinschaftspraxis Lübeck,"Von-Morgen-Straße 3, 23564 Lübeck, Germany",10.71082,53.86329
+1602,Baugrundlabor Lüneburg GmbH,"Gewerbegebiet 5, 21397 Vastorf, Germany",10.532746,53.20784099999999
+1603,Chemisches Laboratorium Lübeck,"Hochofenstraße 23-25, 23569 Lübeck, Germany",10.80255,53.90038
+1606,EGS Labortransport + Analytik Hamburg GmbH,"Horner Landstraße 304, 22111 Hamburg, Germany",10.0849381,53.5468941
+1607,Labor MVZ Westmecklenburg,"Ellerried 7, 19061 Schwerin, Germany",11.3963443,53.5974021
+1608,OMNILAB-LABORZENTRUM GmbH & Co. KG,"Neuer Höltigbaum 30, 22143 Hamburg, Germany",10.1821301,53.61293
+1609,Keradenta GmbH | Fachlabor für Dentalkeramik,"Mecklenburgstraße 113, 19053 Schwerin, Germany",11.410031,53.622393
+1618,Laboratoriumsmedizin Rostock,"Ernst-Heydemann-Str. 6, Klinik für Innere Medizin - 2. Etage Mitteltrakt, 18057 Rostock, Germany",12.100688,54.084449
+1620,Medizinisches Labor Rostock,"Südring 81, 18059 Rostock, Germany",12.1080989,54.071625
+1621,KMG Klinikum Güstrow GmbH Zentrum für Labordiagnostik,"Friedrich-Trendelenburg-Allee 1, 18273 Güstrow, Germany",12.193366,53.811815
+1624,As Dentallabor,"Mariken-un-Jehann-Weg 15, 18069 Rostock, Germany",12.076088,54.1072771
+1625,Waldemar Dullek Dentallabor,"Eisenbahnstraße 8A, 18273 Güstrow, Germany",12.1716579,53.79785
+1627,Clever & Smart Designlabor Dörte Schmidt,"Perleberger Str. 10, 19322 Wittenberge, Germany",11.753049,52.9962947
+1630,Biomechanics and Implant Technology Research Laboratory (Forbiomit),"Doberaner Str. 142, 18057 Rostock, Germany",12.1200223,54.0897897
+1643,IMD Labor Greifswald,"Vitus-Bering-Straße 27a, 17493 Greifswald, Germany",13.4313233,54.0933766
+1646,Labor für Umwelthygiene Dr. H. Bürger,"Waldstraße 1, 17509 Hanshagen, Germany",13.5446835,54.0469804
+1654,"Institut für Laboratoriumsmedizin, Mikrobiologie und Transfusionsmedizin","Hinrichsenstraße 1, 20535 Hamburg, Germany",10.0325627,53.5584476
+1658,labfish rental solutions GmbH,"Willy-Brandt-Allee 31C, 23554 Lübeck, Germany",10.68703,53.87164720000001
+1660,Laboratory of Medical Electronics (LME),"Stephensonstraße 3, 23562 Lübeck, Germany",10.6966491,53.83613949999999
+1667,Dentallabor Kändler GmbH,"Lübsche Str. 6, 23966 Wismar, Germany",11.46416,53.89198
+1675,the peak lab,"26122, Alter Stadthafen, 26122 Oldenburg, Germany",8.223548300000001,53.1408395
+1685,Labor Hamburg-Lübeck MVZ GmbH,"Borsteler Chaussee 43, 22453 Hamburg, Germany",9.9832901,53.60475
+1690,Medical Laboratory Prof. Schenk / Dr. Ansorge and colleagues,"Schwiesaustraße 11, 39124 Magdeburg, Germany",11.647624,52.15797
+1698,"Asklepios Klinik Nord Betriebsteil Ochsenzoll - MEDILYS Institut für Labormed., Mikrobiol. und Krankenhaushygien","Langenhorner Chaussee 560, 22419 Hamburg, Germany",10.0034809,53.6736928
+1700,Lora Dent - zahntechnisches Labor Inhaberin Steffi Lodwig,"Große Str. 23, 19336 Bad Wilsnack, Germany",11.944624,52.955467
+1714,MVZ Labor Eicke,"Jacobsohnstraße 20, 13086 Berlin, Germany",13.4341292,52.5551609
+1718,SKA Labor GmbH,"Bussardstraße 21, 49393 Lohne (Oldenburg), Germany",8.221893399999999,52.6589223
+1720,MVZ Laborverbund GmbH,"Blaues Wunder, Neuendorfstraße 16B, 16761 Hennigsdorf, Germany",13.20736,52.63267
+1722,Labservice GmbH,"Jacobsohnstraße 19-21, 13086 Berlin, Germany",13.4335394,52.5554789
+1723,BMI Labor,"Sonnenburger Str. 70, 10437 Berlin, Germany",13.40862,52.54823
+1732,Dr. med. Ferdinand Hugo Facharzt f. Laboratoriumsmed.,"Nicolaistraße 22, 12247 Berlin, Germany",13.33394,52.44373
+1734,St. Hedwig Hospital Berlin Central Laboratory,"Große Hamburger Str. 5, 10115 Berlin, Germany",13.3983293,52.5260832
+1735,SYNLAB MVZ Berlin GmbH,"Reichartstraße 2, 10829 Berlin, Germany",13.365771,52.4722125
+1737,MVZ Labor Limbach Berlin GbR,"Aroser Allee 84, 13407 Berlin, Germany",13.3547066,52.5628805
+1738,synlab.vet GmbH,"Turmstraße 21, 10559 Berlin, Germany",13.3481382,52.5266726
+1739,Neurodiagnostics Laboratory,"Charitépl. 1, 10117 Berlin, Germany",13.3765307,52.5249488
+1741,AniCon Labor GmbH,"Mühlenstraße 13, 49685 Emstek, Germany",8.132513000000001,52.860268
+1748,Medizinisches Versorgungszentrum Labor Dr. Fenner & Kollegen,"Bergstraße 14, 20095 Hamburg, Germany",9.9957652,53.5509029
+1751,Gläsernes Labor,"Robert-Rössle-Straße 10, 13125 Berlin, Germany",13.5023035,52.6268981
+1753,Labor Berlin - Charité Vivantes GmbH,"Sylter Str. 2, 13353 Berlin, Germany",13.3379147,52.5415625
+1756,MVZ-mib AG Medizinisches Labor,"Seestraße 13, 13353 Berlin, Germany",13.343094,52.545386
+1757,MVZ Medizinisches Labor Celle GmbH,"Neumarkt 1, 29221 Celle, Germany",10.08043,52.62665
+1759,"Klinikum der Stadt Wolfsburg Institut für Klinische Chemie, Laboratoriums- und Transfusionsmedizin","Sauerbruchstraße 7, 38440 Wolfsburg, Germany",10.76775,52.41435999999999
+1760,synlab.vet. GmbH,"Lauenburger Str. 65-67, 21502 Geesthacht, Germany",10.3832,53.43464
+1762,Institut für Bodenökologie Labor Dr. Meyer-Spasche,"Am Teeberg 5, 29581 Gerdau, Germany",10.46019,52.96499
+1763,Institut für Laboratoriumsmedizin,"Hochstraße 29, 14770 Brandenburg an der Havel, Germany",12.5474881,52.4128514
+1768,OakLabs GmbH,"Neuendorfstraße 16B, 16761 Hennigsdorf, Germany",13.20736,52.63267
+1771,Dr.med. Thomas Wurche Facharzt f. Laboratoriumsmed.,"Hochstraße 29, 14770 Brandenburg an der Havel, Germany",12.5450454,52.41393309999999
+1777,Cultex Laboratories GmbH,"Feodor-Lynen-Straße 21, 30625 Hannover, Germany",9.79974,52.38957000000001
+1778,OMNILAB LABORZENTRUM GmbH & Co. KG,"Robert-Hooke-Straße 8, 28359 Bremen, Germany",8.860809999999999,53.11040999999999
+1779,Labor Hannover MVZ GmbH,"Großer Kolonnenweg 18C, 30163 Hannover, Germany",9.73842,52.40569
+1780,Sleep Laboratory and Pneumology Lutz Volgmann,"Kopernikusstraße 5, 30167 Hannover, Germany",9.724228199999999,52.3876348
+1782,tritec Gesellschaft für Labortechnik und Umweltsimualtion,"Hüttenstraße 9, 30165 Hannover, Germany",9.721714799999999,52.3943078
+1796,Haldensleber Dental Labor GmbH,"Kolonie 22, 39340 Haldensleben, Germany",11.40543,52.29011
+1799,Schlaflabor Charlottenburg,"Wilmersdorfer Str. 79, 10629 Berlin, Germany",13.30755,52.50238
+1800,Labor 28 GmbH,"Mecklenburgische Str. 28, 14197 Berlin, Germany",13.308,52.4782
+1801,Institut f. Standardisierung und Dokumentation im med. Laboratorium e.V.,"Paretzer Str. 12, 10713 Berlin, Germany",13.3172635,52.48120669999999
+1802,"Bioscientia Institut für Medizinische Diagnostik GmbH, Labor Berlin","Lützowstraße 89/90, 10785 Berlin, Germany",13.3641901,52.50308
+1803,Medlab Mitte – Labor des MVZ Ärztehaus Mitte,"In den Ministergärten 1, 10117 Berlin, Germany",13.3803566,52.5122106
+1805,Laborgemeinschaft Nord - West,"Technikerstraße 14, 48465 Schüttorf, Germany",7.252704,52.3358029
+1812,Arbeitsgemeinschaft unabhängiger Laborärzte e. V.,"Am Tüv 6, 30519 Hannover, Germany",9.778516,52.33407769999999
+1816,XRAY-LAB GmbH & Co. KG - Wolfsburg,"Heinenkamp 24B, 38444 Wolfsburg, Germany",10.74113,52.37258
+1818,Lilian Labs GmbH,"Salzdahlumer Str. 196, 38126 Braunschweig, Germany",10.5342352,52.2424715
+1821,Laboratory for Biosignal Processing (LaBP),"Eilenburger Str. 13, 04317 Leipzig, Germany",12.4003619,51.3336114
+1825,LABOR STABER Potsdam,"Wetzlarer Str. 34, 14482 Potsdam, Germany",13.11719,52.38234
+1827,Mikrobiologisches Labor Dr. Th. Bernhard GmbH,"Dürerstraße 19B, 12203 Berlin, Germany",13.3055781,52.4375917
+1830,Prof.Dr.med. Lothar Röcker Facharzt f.Laboratoriumsmed.,"Mecklenburgische Str. 28, 14197 Berlin, Germany",13.30846,52.47841
+1831,Institut für Laboratoriums- medizin Berlin,"Windscheidstraße 18, 10627 Berlin, Germany",13.2992332,52.5056816
+1837,BioDoc - Labor für biomedizinische Diagnostik,"Feodor-Lynen-Straße 23, 30625 Hannover, Germany",9.799046299999999,52.3895979
+1841,SYNLAB International GmbH,"Nolteweg 2, 30916 Isernhagen, Germany",9.8057876,52.482823
+1842,Abbott Laboratories GmbH,"Justus-von-Liebig-Straße 33, 31535 Neustadt am Rübenberge, Germany",9.47146,52.51292
+1849,Carl-Thiem-Klinikum Cottbus gGmbH Institute of Laboratory Medicine,"Thiemstraße 111, 03048 Cottbus, Germany",14.3242497,51.7432507
+1852,Dedimed GmbH Europarc Labor,"Heinrich-Hertz-Straße 3A, 14532 Kleinmachnow, Germany",13.18797,52.40543
+1856,Labor Habedank,"Alt-Lichtenrade 100b, 12309 Berlin, Germany",13.4084101,52.39306999999999
+1857,Laborarztpraxis Osnabrück,"Rostocker Str. 5, 49124 Georgsmarienhütte, Germany",8.085088599999999,52.2260645
+1859,Johannes Wesling Klinikum Minden Labor,"Hans-Nolte-Straße 1, 32429 Minden, Germany",8.889690000000002,52.26098
+1866,Medical Laboratory Westsachsen (LG Sachsen-West),"Leipziger Str. 160, 08058 Zwickau, Germany",12.491534,50.736277
+1873,Open Hybrid LabFactory e.V.,"Hermann-Münch-Straße 2, 38440 Wolfsburg, Germany",10.7451025,52.4203067
+1884,SYNLAB Analytics & Services Germany GmbH,"Wolfener Str. 36 V, 12681 Berlin, Germany",13.55526,52.56048
+1887,SF MEDICAL LAB,"Alexander-Meißner-Straße, 12526 Berlin, Germany",13.5445996,52.3935205
+1890,SYNLAB Analytics & Services Germany GmbH,"Köpenicker Str. 325, 12555 Berlin, Germany",13.562107,52.469018
+1893,LVL Lebensmittel- und Veterinärlabor GmbH,"Ecopark-Allee 6, 49685 Emstek, Germany",8.18954,52.81388
+1895,synlab tesdelo service GmbH,"Kösterecke 7, 30966 Hemmingen, Germany",9.754940000000001,52.31108
+1896,HIB Blutanalyselabor UG,"Papenstieg 8, 38100 Braunschweig, Germany",10.5227357,52.2651695
+1903,DLR_School_Lab Braunschweig,"Lilienthalpl. 7, 38108 Braunschweig, Germany",10.5627054,52.3156322
+1910,Computer Graphics Lab,"Mühlenpfordtstraße 23, 38106 Braunschweig, Germany",10.525012,52.2733535
+1915,IHP Labor Berlin,"Siemensstraße 27, 12247 Berlin, Germany",13.3330879,52.4429479
+1918,Labor Krone GbR,"Siemensstraße 40, 32105 Bad Salzuflen, Germany",8.73242,52.08770999999999
+1921,Partnerschaftspraxis für Laboratoriumsmedizin,"Hinterer Brühl 21, 31134 Hildesheim, Germany",9.948594199999999,52.1473747
+1922,St. Bernward Krankenhaus Zentrum für Labordiagnostik,"Treibestraße 9, 31134 Hildesheim, Germany",9.9473018,52.1460962
+1923,"Labor für Zytologie & Diagnostik, Medizinisches Versorgungszentrum Dr. med. M. Lütge","Gittertor 21, 38259 Salzgitter, Germany",10.36606,52.04569
+1926,LDS Labor Diagnostik Systeme GmbH,"Am Obstgarten 10, 39326 Wolmirstedt, Germany",11.63893,52.25029
+1931,"Institut für Laboratoriumsmedizin, Mikrobiologie und Hygiene im EvKB","Johannesstift, Schildescher Straße 99, 33611 Bielefeld, Germany",8.541186,52.041708
+1933,Labor Hameln,"Falkestraße 10, 31785 Hameln, Germany",9.365768599999999,52.1055096
+1935,Laboratory for Systems Theory and Automatic Control Prof. Rolf Findeisen,"Falkenbergstraße 10, 39106 Magdeburg, Germany",11.641057,52.1396334
+1945,"LABCON-OWL Analytik, Forschung und Consulting GmbH","Siemensstraße 40, 32105 Bad Salzuflen, Germany",8.7321638,52.0877311
+1946,Skillslab Magdeburg,"Leipziger Str. 44, 39120 Magdeburg, Germany",11.6198533,52.1034896
+1949,Deutsches Chroniker Labor,"Ziegeleistraße 3, 06485 Quedlinburg/OT Gernrode, Germany",11.1362337,51.72703019999999
+1951,Pro EMV Labor Strausberg mbH,"Garzauer Chaussee 1, 15344 Strausberg, Germany",13.8919545,52.5696469
+1955,Universitätsklinikum Münster Centrum für Laboratoriumsmedizin,"Albert-Schweitzer-Campus 1, 48149 Münster, Germany",7.597939499999999,51.960961
+1956,BDL Labordiagnostik GmbH,"Bahnhofstraße 44, 48143 Münster, Germany",7.633352699999999,51.95537179999999
+1958,MVZ Medizinisches Labor Münster GbR,"Hafenweg 9-11, 48155 Münster, Germany",7.639735000000001,51.952406
+1963,Abbott Laboratories GmbH,"Freundallee 9A, 30173 Hannover, Germany",9.7722635,52.3692929
+1965,Clinical Skills Lab,"Bischofsholer Damm 16, 30173 Hannover, Germany",9.763583200000001,52.3698504
+1968,Dr. med. Kurt-Herbert Jung Facharzt f. Laboratoriumsmed.,"Dunlopstraße 50, 33689 Bielefeld, Germany",8.56559,51.93857
+1969,Zentrallabor der AMEOS Gruppe,"06406 Bernburg, Germany",11.7339384,51.7835342
+1970,MVZ Labor Dessau GmbH,"Bauhüttenstraße 6, 06847 Dessau-Roßlau, Germany",12.2221943,51.81391929999999
+1973,LWS Labor Wartung Service GmbH,"Am Bülten 29, 48703 Stadtlohn, Germany",6.9325117,51.9957606
+1974,Phoenix Testlab GmbH,"Königswinkel 10, 32825 Blomberg, Germany",9.100133999999999,51.935244
+1977,Gerd Kirmse Medizinisches Labor,"Berliner Str. 24, 15926 Luckau, Germany",13.70405,51.85402
+1978,Wolfgang Gierach Dentallabor,"Lange Str. 49, 15926 Luckau, Germany",13.7171673,51.8519042
+1979,Analytik-Labor Dr. Uwe Kludas,"Kreuzbergstraße 146, 06849 Dessau-Roßlau, Germany",12.2554455,51.8082581
+1980,SYNLAB Analytics & Services LAG GmbH,"Kraftwerkstraße, 03185 Peitz, Germany",14.4520023,51.8359922
+1984,alphaomega Labor,"Bitterfelder Str. 23, 04509 Delitzsch, Germany",12.3363588,51.5271546
+1987,Herr Dr. med. Armin Kuhlencord - Krankenhaushygieniker (BÄMI) - Facharzt für Laboratoriumsmedizin,"LADR Laborzentrum Paderborn, Husener Straße 46A, 33098 Paderborn, Germany",8.7589109,51.7109981
+1989,MVZ wagnerstibbe für Laboratoriumsmedizin und Pathologie,"Werner-von-Siemens-Straße 8-10, 37077 Göttingen, Germany",9.9293322,51.5583834
+1990,SIGMA Laborzentrifugen GmbH,"An der Unteren Söse 50, 37520 Osterode am Harz, Germany",10.2231594,51.7396738
+1991,MVZ Martha-Maria gGmbH :Institut für Laboratoriumsmedizin,"Röntgenstraße 1, 06120 Halle (Saale), Germany",11.8774264,51.5024242
+1993,Diagnostisches Labor Thiemstrasse Cottbus,"Thiemstraße 111, 03048 Cottbus, Germany",14.322077,51.74330699999999
+1995,Schlaflabor Lünen Pauli,"Kurt-Schumacher-Straße 8, 44534 Lünen, Germany",7.5261501,51.61725999999999
+1997,"amedes MVZ wagnerstibbe für Laboratoriumsmedizin, medizinische Mikrobiologie und Immunologie","Werner-von-Siemens-Straße 8-10, 37077 Göttingen, Germany",9.929392799999999,51.5583883
+2002,Labor Dr. Böse GmbH,"Carl-Zeiss-Straße 6, 31177 Harsum, Germany",9.9720812,52.2127773
+2008,Dentallabor Bothur und Mechold GmbH,"Gerichtstraße 13, 15859 Storkow (Mark), Germany",13.92446,52.25097
+2009,SYNLAB Analytics & Services LAG GmbH,"An der Heide, 03130 Spremberg, Germany",14.3510577,51.5225764
+2015,Laboratory of Fluidseparations,"Emil-Figge-Straße 70, 44227 Dortmund, Germany",7.4130001,51.4932549
+2017,Labor am Hygiene-Institut,"Rotthauser Str. 19, 45879 Gelsenkirchen, Germany",7.093845699999999,51.5057607
+2018,MVZ Labor Bochum Mlb GmbH,"Universitätsstraße 140, 44799 Bochum, Germany",7.256600300000001,51.44423279999999
+2019,BMA-Labor,"Universitätsstraße 142, 44799 Bochum, Germany",7.2565569,51.4451438
+2021,Clinical Neurobiology Laboratory,"Kellnerweg 4, 37077 Göttingen, Germany",9.954649999999999,51.56173
+2024,SYNLAB MVZ Kassel GmbH,"Kurt-Wolters-Straße 2-4, 34125 Kassel, Germany",9.502625,51.320811
+2026,SYNLAB Analytics & Services LAG GmbH,"An der alten Ziegelei, 03130 Spremberg, Germany",14.3540182,51.5351686
+2029,OMLAB Gesellschaft für Laboranalytik mbH,"Nienkampstraße 1, 45326 Essen, Germany",7.011484899999999,51.4935912
+2030,Practice for laboratory medicine and microbiology,"Universitätsstraße 62, 44789 Bochum, Germany",7.2249349,51.47360860000001
+2033,Immunolab GmbH,"Otto-Hahn-Straße 16, 34123 Kassel, Germany",9.50751,51.27869
+2041,Medical laboratories Dusseldorf,"Nordstraße 44, 40477 Düsseldorf, Germany",6.7793741,51.2376903
+2042,LABOR STABER Kassel,"A, Herkulesstraße 34, 34119 Kassel, Germany",9.461841999999999,51.31375999999999
+2043,Labotect Labor-Technik-Göttingen GmbH,"Kampweg 12, 37124 Rosdorf, Germany",9.8875804,51.51091899999999
+2050,City Labor,"Hainstraße 5-7, 04109 Leipzig, Germany",12.3738006,51.3415081
+2051,labopart - Medizinisches Labor Elsterwerda,"Friedrich-Jage-Straße 4, 04910 Elsterwerda, Germany",13.5221578,51.45676419999999
+2052,SYNLAB Analytics & Services LAG GmbH,"Südstr. 7, 03130 Spremberg, Germany",14.3405093,51.5160258
+2053,Laborgemeinschaft Elsterwerdaer Ärzte,"Friedrich-Jage-Straße 4, 04906 Elsterwerda, Germany",13.522485,51.456747
+2058,alphaomega Labor,"Zschochersche Allee 68, 04207 Leipzig, Germany",12.26985,51.30389
+2059,LANGENHAN-LAB,"Johannisallee 30, 04103 Leipzig, Germany",12.3910052,51.3299244
+2060,"Institut für Laboratoriumsmedizin, Klinische Chemie und Molekulare Diagnostik","Paul-List-Straße 13/15, 04103 Leipzig, Germany",12.3859615,51.3311471
+2064,LABORARZTPRAXIS Dr. Dostmann,"Deutscher Pl. 5D, 04103 Leipzig, Germany",12.3959,51.32080999999999
+2065,MVZ Labor Dr. Reising-Ackermann und Kollegen,"Strümpellstraße 40, 04289 Leipzig, Germany",12.43841,51.30748999999999
+2067,SYNLAB Analytics & Services LAG GmbH,"Kraftwerkstraße, 02943 Boxberg/Oberlausitz, Germany",14.5808071,51.4180813
+2073,SYNLAB Analytics & Services Germany GmbH,"Frillendorfer Str. 154, 45139 Essen, Germany",7.041099999999999,51.45983
+2076,Gemeinschaftslabor Nordhessischer Ärzte,"Falderbaumstraße 41, 34123 Kassel, Germany",9.507109999999999,51.2763
+2079,synlab.vet GmbH,"Hauptstraße 105, 04416 Markkleeberg, Germany",12.3785521,51.2709906
+2080,"SYNLAB Medizinisches Versorgungszentrum Gera, Zweigniederlassung der SYNLAB MVZ Weiden GmbH","Str. des Friedens 122, 07548 Gera, Germany",12.0510302,50.8683193
+2081,ONCOSCREEN Zweigniederlassung der SYNLAB MVZ Weiden GmbH,"Löbstedter Str. 93, 07749 Jena, Germany",11.60763,50.94482
+2082,"SYNLAB Liquorzentrum am Asklepios Fachklinikum Stadtroda, Betriebsstätte der SYNLAB MVZ Weiden GmbH","Bahnhofstraße 1, 07646 Stadtroda, Germany",11.7244249,50.86262499999999
+2083,SYNLAB Analytics & Services Germany GmbH,"Marienstraße 4, 06632 Freyburg (Unstrut), Germany",11.76905,51.21182
+2084,Gerinnungslabor Strümpellstraße ( Claudia ),"Strümpellstraße 41, 04289 Leipzig, Germany",12.438568,51.3072975
+2085,Medizinisches Labor Ostsachsen,"02625 Bautzen, Germany",14.4295413,51.1830996
+2087,Praxis für Labormedizin und Mikrobiologie ÜbaG GbR,"Carnaper Str. 73-75, 42283 Wuppertal, Germany",7.18918,51.27590199999999
+2089,Gerinnungsambulanz Labor Duisburg GmbH,"Königstraße 53, 47051 Duisburg, Germany",6.771747899999999,51.43267849999999
+2093,Med-Lab GmbH Kassel,"Herkulesstraße 34a, 34119 Kassel, Germany",9.461968299999999,51.3138717
+2094,Ilsenburger Dentallabor GmbH,"Rudolf-Breitscheid-Straße 18, 38871 Ilsenburg (Harz), Germany",10.6770624,51.8634388
+2097,"Mieth GmbH, Labor- und Messtechnik","An der Walze 4, 01640 Coswig, Germany",13.5866405,51.1190125
+2099,Labor Dr. Staber Dresden Klipphausen,"Bremer Str. 9, 01665 Klipphausen, Germany",13.51857,51.06304
+2100,Laborgemeinschaft Dresden-Nord/Pirna,"Wurzener Str. 5, 01127 Dresden, Germany",13.72191,51.0811416
+2101,Medizinisches Labor Ostsachsen Standort Dresden,"Bremer Str. 57, 01067 Dresden, Germany",13.6992618,51.0609605
+2103,labopart - Medizinisches Labor Dresden,"Wurzener Str. 5, 01127 Dresden, Germany",13.7218309,51.0812131
+2106,St. Anna Hospital Interdisciplinary sleep laboratory,"St. Anna Klinik, Vogelsangstraße 106, 42109 Wuppertal, Germany",7.1421275,51.2745092
+2107,Laboratoriumsmedizin Dr.Franke & Dr. Adamek,"Zietenstraße 8A, 40476 Düsseldorf, Germany",6.7748614,51.2419394
+2113,Peter Kirchner Zentradent Laboratorium,"Gartenstraße 52, 99867 Gotha, Germany",10.7067011,50.95160869999999
+2114,Medlab - Laboratoriumsanalytik GmbH,"Schützenberg 10, 99867 Gotha, Germany",10.6978866,50.9521498
+2115,Dr. Mitsching - Labor für Hygiene und Mikrobiologie,"Ernst-Thälmann-Straße 89, 99423 Weimar, Germany",11.32089,50.9911
+2119,SYNLAB Analytics & Services Germany GmbH,"Hauptstraße 105, 04416 Markkleeberg, Germany",12.3785246,51.2715399
+2123,bioscientia Institut f. Labor-untersuchungen Ingelheim GmbH,"Sachsendorfer Str. 15, 04779 Wermsdorf, Germany",12.93285,51.28164
+2125,SYNLAB Analytics & Services LAG GmbH,"Hauptstraße 200, 04575 Neukieritzsch, Germany",12.3776001,51.1818508
+2126,"Bioscientia Institut für Medizinische Diagnostik GmbH, Labor Jena","Orlaweg 2, 07743 Jena, Germany",11.608193,50.9460986
+2127,LABOR STABER Dresden,"Bremer Str. 9, 01665 Dresden-Klipphausen, Germany",13.51857,51.06304
+2129,Institut für Klinische Chemie und Labormedizin,"Friedrichstraße 41, 01067 Dresden, Germany",13.719313,51.0593533
+2130,Jadolabs GmbH,"Tatzberg 47, 01307 Dresden, Germany",13.77599,51.05628730000001
+2133,"MVZ Dresden, laboratory Möbius, Quasdorf GbR","Köhlerstraße 14A, 01239 Dresden, Germany",13.7877819,51.0026105
+2137,Medizinisches Labor Ostsachsen MVZ GbR,"Cottbuser Str. 11, 02826 Görlitz, Germany",14.97055,51.15337
+2138,Markus Labs,"Fährstraße 205, 40221 Düsseldorf, Germany",6.7400644,51.2042935
+2142,Laborarztpraxis Jochen Hüter / InVitaLab,"Hammfelddamm 6, 41460 Neuss, Germany",6.711210800000001,51.1937805
+2143,Greiten Dentallabor GmbH & Co. KG,"Grevenbrücker Str. 10, 57368 Lennestadt, Germany",8.0302805,51.1299054
+2148,Medizinisches Labor Ostsachsen - Medizinisches Versorgungszentrum GbR Niederlassung - Görlitz,"Cottbuser Str. 11, 02826 Görlitz, Germany",14.9705179,51.1535987
+2156,Cramer lab,"37077 Göttingen, Germany",9.9699127,51.5623187
+2157,Sartorius Lab Instruments GmbH & Co. KG,"Otto-Brenner-Straße 20, 37079 Göttingen, Germany",9.889919599999999,51.552757
+2161,"SYNLAB Medizinisches Versorgungszentrum Bad Nauheim, Zweigniederlassung der SYNLAB MVZ Kassel GmbH","Mondorfstraße 17, 61231 Bad Nauheim, Germany",8.7335823,50.3673407
+2170,labopart - Medical Laboratory Chemnitz,"Am Walkgraben 27, 09119 Chemnitz, Germany",12.90637,50.8253
+2175,Medizinisches Versorgungszentrum SYNLAB Leverkusen GmbH,"Paracelsusstraße 13, 51375 Leverkusen, Germany",7.030272699999999,51.0333166
+2176,Analytische Laboratorien,"Industriepark Kaiserau, Kaiserau 2, 51789 Lindlar, Germany",7.438892200000001,51.0381862
+2180,TÜV SÜD ELAB GmbH,"Birlenbacher Str. 14, 57078 Siegen, Germany",8.0096101,50.90808999999999
+2185,Eurofins Inlab GmbH,"Otto-Hahn-Straße 15, 44227 Dortmund, Germany",7.408220000000001,51.48942
+2186,MVZ Labor Marburg GmbH,"Biegenstraße 35, 35037 Marburg, Germany",8.7757376,50.8123091
+2188,Institut für Klinische Chemie und Laboratoriumsdiagnostik am Universitätsklinikum Jena,"07747 Jena, Germany",11.6174217,50.887548
+2189,Medizinisches Zentrallabor,"Am Waldessaum 8, 04600 Altenburg, Germany",12.4395841,50.9719492
+2191,"MVZ Labor Limbach Dresden GbR, Nebenbetriebsstätte SSK Sebnitz","Dr.-Steudner-Straße 75B, 01855 Sebnitz, Germany",14.2666362,50.9831485
+2193,Medizinisches Versorgungszentrum SYNLAB Hämatologisches Labor Köln GmbH,"Kerpener Str. 62, 50937 Köln, Germany",6.916937,50.9235224
+2198,MVZ Labordiagnostik Lahn-Dill,"Hindenburgstraße 15, 35683 Dillenburg, Germany",8.29018,50.74032
+2202,bioscientia Institut f. Laboruntersuchungen Ingelheim GmbH,"Ilmstraße 7, 07743 Jena, Germany",11.60843,50.94615
+2203,"Eurofins Umwelt Ost GmbH, Labor Jena","Löbstedter Str. 78, 07749 Jena, Germany",11.60957,50.94551999999999
+2204,SYNLAB Analytics & Services Germany GmbH,"Orlaweg 2, 07743 Jena, Germany",11.608193,50.946099
+2205,Laborgemeinschaft Gera,"Clara-Viebig-Straße 2, 07545 Gera, Germany",12.076214,50.873957
+2206,Laboratoires Cosmedic GmbH,"Nußbaumallee 13, 50169 Kerpen, Germany",6.74062,50.86559
+2207,"LIS Labor im Sommershof, Dr. med. Christiane Boogen","Hauptstraße 71, 50996 Köln, Germany",6.995419999999999,50.89338
+2209,LIS - Labor im Sommershof,"Hauptstraße 71-73, 50996 Köln, Germany",6.995649999999999,50.89326
+2211,"SYNLAB Medizinisches Versorgungszentrum Neuwied, Zweigniederlassung der SYNLAB MVZ Trier GmbH","Dahlbachs Weg 15, 56566 Neuwied, Germany",7.49118,50.47141999999999
+2212,Medizinisches Versorgungszentrum synlab Bonn GmbH,"Dechenstraße 1, 53115 Bonn, Germany",7.096909699999999,50.7312866
+2218,MVZ Gemeinschaftslabor Suhl,"Albert-Schweitzer-Straße 4, 98527 Suhl, Germany",10.7091132,50.6026779
+2221,Laborgemeinschaft Chemnitzer Ärzte,"Sandstraße 116, 09114 Chemnitz, Germany",12.899966,50.862503
+2223,Zahntechnisches Labor C. Czejka,"Brunnenstraße 5, 02730 Ebersbach-Neugersdorf, Germany",14.57739,51.00527
+2232,LABOR STABER Gießen,"Schiffenberger Weg 76, 35394 Gießen, Germany",8.6876824,50.5728397
+2233,"Bioscientia Institut für Medizinische Diagnostik GmbH, Labor Fulda","Gerloser Weg 20, im Zentrum Vital, 36039 Fulda, Germany",9.6751203,50.5615774
+2234,Klinikum Fulda - Institut für Laboratoriumsmedizin,"Pacelliallee 4, 36043 Fulda, Germany",9.7060832,50.54679350000001
+2236,Medizinisches Labor Dr. Heuchel,"Bahnhofstraße 12, 07318 Saalfeld/Saale, Germany",11.3719,50.65016
+2237,Labor Staber- Chemnitz,"Yorckstraße 35, 09130 Chemnitz, Germany",12.9548719,50.834805
+2239,SYNLAB Analytics & Services Germany GmbH,"Jagdschänkenstraße 52, 09117 Chemnitz, Germany",12.8426371,50.80734810000001
+2240,MAL - Mikrobiologisch - analytisches Labor GmbH,"Ringstraße 1, 09387 Jahnsdorf OT Leukersdorf, Germany",12.8345208,50.760941
+2241,Med-Lab Medizinische Dienstleistungs GmbH,"Bremer Str. 9, 01665 Klipphausen, Germany",13.51857,51.06304
+2242,Eurofins Umwelt Ost GmbH Laboratory Freiberg,"Lindenstraße 11, Gewerbegebiet Freiberg Ost, 09627 Bobritzsch-Hilbersdorf, Germany",13.3931499,50.9212874
+2244,DKMS Life Science Lab GmbH,"Blasewitzer Str. 43, 01307 Dresden, Germany",13.7803199,51.05337
+2245,PAA Laboratories GmbH,"Unterm Bornrain 2, 35091 Cölbe, Germany",8.78749,50.85181
+2249,Labor für Biomechanik,"Klinikstraße 29, 35392 Gießen, Germany",8.6654111,50.5757452
+2251,HuK Umweltlabor GmbH,"Otto-Hahn-Straße 2, 57482 Wenden, Germany",7.906925999999999,50.935031
+2253,Miprolab Mikrobiologische Diagnostik GmbH,"Marie-Curie-Straße, 37079 Göttingen, Germany",9.898537400000002,51.5530058
+2256,AGROLAB Agrarzentrum GmbH,"Zeißstraße 19, 37327 Leinefelde-Worbis, Germany",10.3367893,51.3917691
+2260,MVZ Labor Limbach Bonn GmbH,"Schieffelingsweg 28, 53123 Bonn, Germany",7.0608301,50.7161608
+2262,Medizinische Laboratorien Bonn Medizinisches Versorgungszentrum,"Königstraße 73, 53115 Bonn, Germany",7.0971,50.72629999999999
+2263,KABE LABORTECHNIK GmbH,"Jägerhofstraße 17, 51588 Nümbrecht, Germany",7.5271851,50.932415
+2265,MVZ Labordiagnostik Mittelhessen GmbH,"Ursulum 1, 35396 Gießen, Germany",8.7056948,50.5955323
+2267,Olimp Laboratories Germany,"Am Weiher 8, 63505 Langenselbold, Germany",9.0525275,50.1609875
+2274,Vitatest medizinische Labordiagnostik,"Am Weißen Haus 10, 97772 Wildflecken, Germany",9.91474,50.3824
+2275,ILS - Innovative Laborsysteme GmbH,"Mittelstraße 37, 98714 Stützerbach, Germany",10.85976,50.63166
+2276,Dentallabor Kaiser GmbH,"Brunnengasse 32, 07907 Schleiz, Germany",11.8115084,50.57555929999999
+2283,ALS Automated Lab Solutions GmbH,"Otto-Eppenstein-Straße 30, 07745 Jena, Germany",11.5908436,50.8890722
+2284,design:lab weimar GmbH,"Lisztstraße 37, 99423 Weimar, Germany",11.31933,50.97405
+2288,Lab-on-Fiber GmbH,"Heinrich-Damerow-Straße 1, 06120 Halle (Saale), Germany",11.9374874,51.493868
+2291,CUP Laboratorien Dr. Freitag GmbH,"Carl-Eschebach-Straße 7, 01454 Radeberg, Germany",13.9282692,51.1029348
+2294,MVZ Labor Limbach Bonn GmbH,"Von-Hompesch-Straße 1, 53123 Bonn, Germany",7.031499999999999,50.7077
+2296,Zentrallabor,"53127 Bonn, Germany",7.1034073,50.7019095
+2297,Ermö - Erich Möller Dentallabor GmbH,"Richard-Wagner-Straße 45, 36043 Fulda, Germany",9.703553099999999,50.54369459999999
+2299,MEDINOS Kliniken des Landkreises Sonneberg GmbH - Klinik Sonneberg - Zentrallabor,"Neustädter Str. 61, 96515 Sonneberg, Germany",11.16354,50.35456
+2302,Apex Dentallabor GmbH,"Fetscherstraße 72, 01307 Dresden, Germany",13.7787413,51.0537877
+2313,"Charles River Laboratories, Research Models and Services, Germany GmbH","Sandhofer Weg 7, 97633 Sulzfeld, Germany",10.39752,50.25424
+2316,MVZ für Laboratoriumsmedizin und Mikrobiologie Koblenz-Mittelrhein,"Viktoriastraße 39, 56068 Koblenz, Germany",7.594371499999998,50.35560230000001
+2319,Praxis Partner Fachversand für Arzt- und Laborbedarf GmbH,"In den Fritzenstücker 9-11, 65549 Limburg an der Lahn, Germany",8.081535299999999,50.39823879999999
+2321,LABOKLIN Laboratory for Clinical Diagnostics GmbH & Co. KG,"Steubenstraße 4, 97688 Bad Kissingen, Germany",10.08051,50.20962
+2323,Zytologisches Einsendelabor Gelnhausen,"Bahnhofstraße 10-12, 63571 Gelnhausen, Germany",9.1905397,50.1972708
+2325,A & M Labor für Analytik und Metabolismusforschung Service GmbH,"Kopernikusstraße 25, 50126 Bergheim, Germany",6.61035,50.95585999999999
+2326,Mineralogisches Labor und Harnsteinanalysezentrum,"Werthmannstraße 1, 50935 Köln, Germany",6.8974404,50.9235132
+2327,Labor Dr. Wisplinghoff,"Horbeller Str. 18-20, 50858 Köln, Germany",6.859384800000001,50.9171886
+2330,Labsco Laboratory Supply Company GmbH & Co. KG,"Hanauer Str. 10, 61169 Friedberg (Hessen), Germany",8.7583095,50.3358409
+2333,Jena Biophotonic and Imaging Laboratory,"Albert-Einstein-Straße 9, 07745 Jena, Germany",11.5677813,50.9092209
+2338,Labco Labor GmbH,"Kaiserstraße 53, 60329 Frankfurt am Main, Germany",8.6692068,50.1083378
+2340,Labor L + S AG,"Mangelsfeld 4, 5, 6, 97708 Bad Bocklet, Germany",10.07224,50.24627
+2341,MVZ Labor Schweinfurt GmbH,"Gustav-Adolf-Straße 8, 97422 Schweinfurt, Germany",10.24439,50.0519
+2345,KLG Krankenhaus-Labor- Gesellschaft mbH,"Ginnheimer Landstraße 86, 60487 Frankfurt am Main, Germany",8.6460796,50.13558949999999
+2347,"SYNLAB Bayreuth, Betriebsstätte der SYNLAB MVZ Weiden GmbH","Spinnereistraße 5B, 95445 Bayreuth, Germany",11.5711162,49.952192
+2351,Labor für Abstammungsbegutachtungen,"Marie-Curie-Straße 1, 53359 Rheinbach, Germany",6.949654199999999,50.6347321
+2354,Labor für Bewegungs- und Funktionsdiagnostik,"Mainzer Str. 98, 65189 Wiesbaden, Germany",8.25051,50.06708
+2355,IMD Labor Frankfurt,"Heidelberger Str. 13, 60327 Frankfurt am Main, Germany",8.65574,50.10102
+2356,MVZ Labor Frankfurt-West GmbH,"Leipziger Str. 46, 60487 Frankfurt am Main, Germany",8.6468545,50.12238139999999
+2357,Forensisches Labor Prof. Bratzke am Institut für Rechtsmedizin,"Kennedyallee 104, 60596 Frankfurt am Main, Germany",8.6657399,50.09406999999999
+2358,Klinikum Offenbach GmbH Zentralinstitut für Laboratoriumsdiagnostik,"Starkenburgring 66, 63069 Offenbach am Main, Germany",8.7566872,50.0960889
+2359,Laboratorium für Abstammungsbegutachtung,"Institut für Transfusionsmedizin und Immunhämatologie, Sandhofstraße 1, 60528 Frankfurt am Main, Germany",8.654623599999999,50.0919967
+2360,Praxis und Labor zur Diagnostik und Therapie von Blutgerinnungsstörungen,"Gartenstraße 134, 60596 Frankfurt am Main, Germany",8.6689916,50.0997046
+2363,Arzt für Laboratoriumsmedizin Dr. med. Thomas Müller,"Knodestraße 3, 63741 Aschaffenburg, Germany",9.150572799999999,49.9832344
+2367,Labor Dr. Wisplinghoff,"Horbeller Str. 18-20, 50858 Köln, Germany",6.85921,50.91623
+2369,Labor Dr. Riegel,"Kreuzberger Ring 60, 65205 Wiesbaden, Germany",8.2892835,50.0560568
+2370,"Bioscientia Institut für Medizinische Diagnostik GmbH, Labor Mainz im MED Facharztzentrum","Wallstraße 3, 55122 Mainz, Germany",8.25657,50.00019
+2372,LabArt UG & Co. KG,"Sportplatzstraße 15, 97297 Waldbüttelbrunn, Germany",9.84951,49.78674
+2375,Witeg Labortechnik GmbH,"Hüttenweg 3, 97877 Wertheim, Germany",9.4999,49.78724
+2376,LABOR Becker & Kollegen MVZ GbR Labor Bamberg,"Heinrichstraße 1, 96047 Bamberg, Germany",10.8916799,49.89500260000001
+2377,LABOR STABER Bayreuth,"Wilhelm-Pitz-Straße 1, 95448 Bayreuth, Germany",11.58189,49.95413
+2384,"SYNLAB Chemie-, Industrie- und Spezialanalytik CIS GmbH","Industriestraße 300, 50354 Hürth, Germany",6.850175,50.85771889999999
+2385,"Bioscientia Institut für Medizinische Diagnostik GmbH, Labor Ingelheim","Konrad-Adenauer-Straße 17, 55218 Ingelheim am Rhein, Germany",8.050877,49.981947
+2387,GPR Klinikum Rüsselsheim Institut für Laboratoriumsmedizin,"August-Bebel-Straße 59, 65428 Rüsselsheim am Main, Germany",8.4230467,49.9834342
+2388,Biocontrol Ihr Laborpartner in der Tiermedizin,"Konrad-Adenauer-Straße 17, 55218 Ingelheim am Rhein, Germany",8.050758,49.9820133
+2389,Labor Mainz,"Carl-Zeiss-Straße 41B, 55129 Mainz, Germany",8.2543135,49.9628412
+2391,Vaterschaftstest Labor Galantos Genetics GmbH,"Johann-Joachim-Becher-Weg 30, 55128 Mainz, Germany",8.236032999999999,49.992084
+2406,Labortechnik Tasler GmbH,"Friedrich-Bergius-Ring 15, 97076 Würzburg, Germany",9.998441999999999,49.803657
+2415,dental-house.DE/SIGN Dentallabor Group,"Meistersingerstraße 2, 95444 Bayreuth, Germany",11.574439,49.9532572
+2417,Labormedizin Darmstadt,"Rheinstraße 44-46, 64283 Darmstadt, Germany",8.643089999999999,49.87146
+2418,SYNLAB Medizinisches Versorgungszentrum Weiden GmbH,"Zur Kesselschmiede 4, 92637 Weiden in der Oberpfalz, Germany",12.1616372,49.6819356
+2419,SYNLAB Medizinisches Versorgungszentrum Trier GmbH,"Kaiserstraße 1-2, 54290 Trier, Germany",6.628769999999999,49.75138
+2422,ABC-Labor GmbH,"Hauptstraße 93, 54486 Mülheim (Mosel), Germany",7.0164464,49.9131389
+2424,Klinikum Darmstadt Institut : Labormedizin,"Grafenstraße 9, 64283 Darmstadt, Germany",8.6475891,49.875221
+2425,CTL & Ortholabor GmbH,"Reißstraße 1, 64319 Pfungstadt, Germany",8.63603,49.8019
+2429,bioscientia Institut f. Laboruntersuchungen Ingelheim GmbH,"Langenbeckpl. 2, 65189 Wiesbaden, Germany",8.2544787,50.0754147
+2430,"SYNLAB Medizinisches Versorgungszentrum Nürnberg, Zweigniederlassung der SYNLAB MVZ Weiden GmbH","Fürther Str. 212, 90429 Nürnberg, Germany",11.0343105,49.4596497
+2432,LABOR STABER Nürnberg,"Deutschherrnstraße 15-19, 90429 Nürnberg, Germany",11.0636314,49.45398429999999
+2433,Phytolab GmbH & Co. KG,"Dutendorfer Str. 5, 91487 Vestenbergsgreuth, Germany",10.65111,49.68863
+2436,LABOR STABER Regensburg,"Im Gewerbepark B54, 93059 Regensburg, Germany",12.1303541,49.030871
+2437,LABOR STABER Regensburg - Humangenetik und Gynäkologie,"Bischof-von-Henle-Straße 2A, 93051 Regensburg, Germany",12.0898602,49.0098575
+2441,Niepötter Labortechnik,"Dieburger Str. 10, 68642 Bürstadt, Germany",8.460769100000002,49.6448207
+2443,SYNLAB Analytics & Services Germany GmbH,"Zur Kesselschmiede 4, 92637 Weiden in der Oberpfalz, Germany",12.1617451,49.6819176
+2448,Metropol Medical Center Labor für Mikrobiologie und Infektionsserologie,"Virnsberger Str. 75-79, 90431 Nürnberg, Germany",11.0031521,49.449971
+2449,MVZ Labor Limbach Nürnberg GmbH,"Lina-Ammon-Straße 28, 90471 Nürnberg, Germany",11.1305,49.40891999999999
+2459,MSG Medizinische Serviceges. für Laboranalytik mbH,"Luxemburger Str. 2, 67657 Kaiserslautern, Germany",7.806057200000001,49.4552216
+2463,Westpfalz-Klinikum GmbH Institut für Laboratoriums- und Transfusionsmedizin,"Hellmut-Hartert-Straße 1, 67655 Kaiserslautern und Kusel, Germany",7.75688,49.44161
+2468,SYNLAB Medizinisches Versorgungszentrum Pathologie Mannheim GmbH,"A2 2, 68159 Mannheim, Germany",8.4623081,49.4851301
+2469,Theresien-Krankenhaus-Labor,"Bassermannstraße 1, 68165 Mannheim, Germany",8.4820209,49.4895094
+2472,"Eurofins Laborservices GmbH, Labor ILWA","Bucher Hauptstraße 25, 90427 Nürnberg, Germany",11.04904,49.49413
+2475,TH Nürnberg | Learning Lab,"Wassertorstraße, 90489 Nürnberg, Germany",11.094448,49.4525802
+2481,"SYNLAB MVZ Neustadt/Weinstraße, Zweigniederlassung der SYNLAB MVZ Trier GmbH","Landauer Str. 1, 67434 Neustadt an der Weinstraße, Germany",8.1376666,49.3502701
+2485,Clinical Laboratory Publications GmbH,"Neue Rheingaustraße 13, 55129 Mainz, Germany",8.279104799999999,49.9709527
+2487,Medizinisches Versorgungszentrum Labor Saar GmbH,"Otto-Kaiser-Straße 8a, 66386 St. Ingbert, Germany",7.1407124,49.2724061
+2490,Heidelberger Schlaflabor,"Schneidmühlstraße 21, 69115 Heidelberg, Germany",8.6913679,49.4107144
+2492,Heisig Dental-Labor GmbH,"Regensburger Str. 38, 92224 Amberg, Germany",11.8712335,49.4424788
+2493,"SYNLAB Medizinisches Versorgungszentrum Regensburg, Zweigniederlassung der SYNLAB MVZ Weiden GmbH","Hildegard-von-Bingen-Straße 1, 93053 Regensburg, Germany",12.11907,49.00594
+2495,SYNLAB Medizinisches Versorgungszentrum Heidelberg GmbH,"Wasserturmstraße 71, 69214 Eppelheim, Germany",8.6267453,49.4070555
+2496,Labor Dr. Limbach and colleagues,"MVZ Heidelberg, Im Breitspiel 16, 69126 Heidelberg, Germany",8.6866129,49.3625152
+2500,analab Taubmann GmbH,"Am Berglein 3, 95336 Mainleus, Germany",11.3407484,50.11747279999999
+2503,"Bioscientia MVZ Saarbrücken GmbH, Labor Saarbrücken","Winterberg 1, 66119 Saarbrücken, Germany",6.996440199999999,49.2214118
+2509,Strath Labor GmbH,"Strathstraße 5, 93093 Donaustauf, Germany",12.2151131,49.0335186
+2510,MVZ Labor Saar GmbH,"Otto-Kaiser-Straße 8a, 66386 St. Ingbert, Germany",7.1411959,49.2720549
+2511,SYNLAB Medizinisches Versorgungszentrum Humangenetik Mannheim GmbH,"Harrlachweg 1, 68163 Mannheim, Germany",8.5061765,49.4774346
+2513,Labor Black Holm MVZ,"Bahnhofstraße 14, 74072 Heilbronn, Germany",9.2115222,49.14287119999999
+2514,LABOR STABER Heilbronn,"Sülmerstraße 60, 74072 Heilbronn, Germany",9.2211908,49.144419
+2524,"Eurofins Laborservices GmbH, Labor ILWA","Schweinauer Hauptstraße 38, 90441 Nürnberg, Germany",11.0466172,49.4330168
+2528,Siemens AG - Micro Grid Laboratory,"Günther-Scharowsky-Straße 7, 91058 Erlangen, Germany",11.0050144,49.5736009
+2529,Spacelabs Healthcare GmbH,"Südwestpark 40, 90449 Nürnberg, Germany",11.02242,49.42769999999999
+2533,Medical Hygiene-Labor,"Bahnhofstraße 14, 74072 Heilbronn, Germany",9.21111,49.14294
+2540,Med-Lab Med. Dienstleistungs GmbH,"Sülmerstraße 60, 74072 Heilbronn, Germany",9.221192,49.1444173
+2545,SYNLAB Analytics & Services Germany GmbH,"Am Tegelberg 1, 94469 Deggendorf, Germany",12.9476174,48.8398874
+2547,"Städtisches Klinikum Karlsruhe gGmbH Zentrum für Labormedizin, Mikrobiologie und Transfusionsmedizin (ZLMT)","Moltkestraße 90, 76133 Karlsruhe, Germany",8.3715934,49.0174623
+2548,MVZ Labor Dr. Volkmann & Kollegen GbR,"Kriegsstraße 99, 76133 Karlsruhe, Germany",8.3876501,49.005178
+2549,"Cytolab - Zytologisches Labor Dr. Weinschenk, Dr. Börner, Dr. Boländer","Bahnhofpl. 8, 76137 Karlsruhe, Germany",8.399610899999999,48.9947576
+2553,Dentallabor Just GmbH,"Grünhainer Str. 41, 08340 Schwarzenberg/Erzgebirge, Germany",12.781516,50.55048499999999
+2557,Mikrobiologisches Testlabor GmbH,"Brambacher Str. 17, 08645 Bad Elster, Germany",12.2675091,50.2936478
+2568,Karlheinz Müller Dentallabor,"Beim Postweg 35, 75446 Wiernsheim, Germany",8.85268,48.90811
+2571,MVZ laboratory Ludwigsburg,"Wernerstraße 33 71636 Ludwigsburg Anfahrt für Parkplätze:, Mörikestraße 28, 71636 Ludwigsburg, Germany",9.177197099999999,48.8951864
+2574,MVZ laboratory diagnostics Karlsruhe GmbH,"Am Rüppurrer Schloß 1, 76199 Karlsruhe, Germany",8.404987,48.981163
+2575,MVZ Laborzentrum Ettlingen GmbH,"Otto-Hahn-Straße 18, 76275 Ettlingen, Germany",8.3787313,48.9443441
+2577,ZytoLabor Ludwigsburg,"Hoferstraße 9A, 71636 Ludwigsburg, Germany",9.1811949,48.8933906
+2580,Laborarzt Dr. Hans-Michael van de Loo,"Uferstraße 2, 73525 Schwäbisch Gmünd, Germany",9.7913307,48.7991696
+2581,Labor Dr. Spranger - Spranger Laboratories,"Lindberghstraße 9, 85051 Ingolstadt, Germany",11.42965,48.74731999999999
+2582,"SYNLAB Medizinisches Versorgungszentrum Landau, Betriebsstätte der SYNLAB MVZ Weiden GmbH","Hauptstraße 108, 94405 Landau an der Isar, Germany",12.69365,48.67404000000001
+2584,"SYNLAB Medizinisches Versorgungszentrum Stuttgart GmbH, Gerinnungszentrum","Stuttgarter Str. 11, 70469 Stuttgart, Germany",9.1684231,48.8116704
+2591,Med-Lab Med. Dienstleistungs GmbH,"Im Gewerbepark B54, 93059 Regensburg, Germany",12.1324303,49.0315006
+2592,familylab.de,"Oberbucha 4, 94336 Windberg, Germany",12.760855,48.9545
+2594,"Dr. med. Dr. rer. nat. Michael Arlt - Laborarzt, Gerinnungspraxis","Stuttgarter Str. 33-35, 70469 Stuttgart, Germany",9.1645863,48.8103826
+2596,Laborpraxis am Katharinenhospital,"Kriegsbergstraße 60, 70174 Stuttgart, Germany",9.1731102,48.7835422
+2597,Laboratory Prof. Gisela Enders MVZ GbR,"Rosenbergstraße 85, 70193 Stuttgart, Germany",9.1545244,48.7778736
+2599,Qualitylabs Bt GmbH,"Neumeyerstraße 46, 90411 Nürnberg, Germany",11.1207844,49.48087839999999
+2600,SYNLAB Analytics & Services Germany GmbH,"Celtesstraße 1, 85051 Ingolstadt, Germany",11.4270711,48.7466038
+2613,Labor Dr. Schubach und Kollegen,"Wörth 15, 94034 Passau, Germany",13.39554,48.59025
+2615,Klinikum Passau Institut für Labor- und Transfusionsmedizin,"Innstraße 76, 94032 Passau, Germany",13.4445856,48.5658027
+2626,SYNLAB Medizinisches Versorgungszentrum Leinfelden-Echterdingen GmbH,"Max-Lang-Straße 58, 70771 Leinfelden-Echterdingen, Germany",9.14303,48.70052
+2628,Neurologisches Labor der Medius Kliniken Kirchheim,"73230 Kirchheim unter Teck, Germany",9.4421355,48.65271329999999
+2631,SYNLAB Holding Germany GmbH,"Gubener Str. 39, 86156 Augsburg, Germany",10.86134,48.38656
+2632,Labor Wilhelm,"Am Ziegelfeld 25, 86529 Schrobenhausen, Germany",11.2531287,48.5708839
+2633,Interlab GmbH,"Bayerstraße 53, 80335 München, Germany",11.5562004,48.1390415
+2634,Labor für Dermatohistologie und Oralpathologie,"Bayerstraße 69, 80335 München, Germany",11.5542759,48.13895249999999
+2638,synlab GmbH,"Kirchpl. 10, 94060 Pocking, Germany",13.3097235,48.40193319999999
+2640,Rheumatologisches Labor Medius Kliniken Kirchheim,"73230 Kirchheim unter Teck, Germany",9.4421915,48.6524189
+2645,synlab Services,"Gubener Str. 39, 86156 Augsburg, Germany",10.8613401,48.38656
+2647,Labor für Zytodiagnostik Ulm,"Hafengasse 2, 89073 Ulm, Germany",9.9939089,48.3989526
+2650,LABOR STABER Augsburg,"Wallstraße 1, 86150 Augsburg, Germany",10.8950534,48.3659341
+2652,Eurofins Laborservices GmbH,"Kobelweg 12/1, 86156 Augsburg, Germany",10.8653988,48.3845318
+2660,Labor Becker & Kollegen,"Neustadt 532, 84028 Landshut, Germany",12.15457,48.53747
+2661,KORMANN LAB,"Wilhelmstraße 27, 72074 Tübingen, Germany",9.0624755,48.5272614
+2663,LABOR STABER München,"Hofer Str. 15, 81737 München, Germany",11.6330635,48.0911254
+2665,Universitätsklinikum Ulm Zentrallabor Klinische Chemie,"Albert-Einstein-Allee 29, 89081 Ulm, Germany",9.9535895,48.4222817
+2666,Labor Augsburg MVZ GmbH,"August-Wessels-Straße 5, 86154 Augsburg, Germany",10.87202,48.38559
+2667,"Kommunalunternehmen Klinikum Augsburg Institut für Laboratoriumsmedizin, Mikrobiologie und Umwelthygiene","Stenglinstraße 2, 86156 Augsburg, Germany",10.8401544,48.3828107
+2670,"SYNLAB MVZ Humane Genetik München, Ausgelagerte Praxisräume Dachau","Hochstraße 27, 85221 Dachau, Germany",11.42906,48.26603
+2672,Mic Lab GmbH Privates Institut für mikrobiologische Analytik,"Bahnhofstraße 32, 84524 Neuötting, Germany",12.6828629,48.2470927
+2678,Future Work Lab,"Pfaffenwaldring 19, 70569 Stuttgart, Germany",9.109335999999999,48.748549
+2681,synlab Medizinisches Versorgungszentrum Hamburg GmbH,"Gubener Str. 39, 86156 Augsburg, Germany",10.86134,48.38656
+2682,SYNLAB Holding Deutschland GmbH,"Gubener Str. 39, 86156 Augsburg, Germany",10.86134,48.38656
+2685,AGROLAB Labor GmbH,"Dr.-Pauling-Straße 3, 84079 Bruckberg, Germany",11.9820641,48.512318
+2692,Infectolab-Vet Laborbetriebs GmbH,"Morellstraße 33, 86159 Augsburg, Germany",10.89087,48.35736
+2695,"Bioscientia Institut für Medizinische Diagnostik GmbH, Labor Karlsfeld","Liebigstraße 14, 85757 Karlsfeld, Germany",11.4871,48.22909
+2696,Labor ParaDocs,"Gebäude 4,, Münchener Str. 101, 85737 Ismaning, Germany",11.6565869,48.2088116
+2698,SYNLAB Analytics & Services Germany GmbH,"Kirchpl. 10, 94060 Pocking, Germany",13.3097235,48.40193319999999
+2703,EAG Laboratories GmbH,"Eiselauer Weg 4, 89081 Ulm, Germany",9.9750497,48.4555742
+2705,Synlab GmbH,"Gubener Str. 39, 86156 Augsburg, Germany",10.8613401,48.38656
+2706,ArminLabs GmbH,"Zirbelstraße 58, 86154 Augsburg, Germany",10.8786767,48.396413
+2707,SYNLAB Analytics & Services Germany GmbH,"Gubener Str. 39, 86156 Augsburg, Germany",10.8613939,48.3865294
+2710,Synlab GmbH,"An der Steig 24, 86482 Aystetten, Germany",10.76675,48.40653
+2712,SYNLAB International GmbH,"Moosacher Str. 88, 80809 München, Germany",11.5428371,48.1863633
+2713,SYNLAB Medizinisches Versorgungszentrum Humane Genetik München,"MVZ Humane Genetik, Lindwurmstraße 23, 80337 München, Germany",11.5631164,48.1314455
+2714,MVZ Ärztliche Laboratorien München-Land,"Gruber Str. 46/A-B, 85586 Poing, Germany",11.80548,48.17158
+2719,Silicon Laboratories GmbH,"Ludwigstraße 49, 85399 Hallbergmoos, Germany",11.7360525,48.3316329
+2723,ZAKLAB Gmbh,"Bruckrain 9, 72336 Balingen, Germany",8.8384559,48.2564425
+2725,amedes MVZ für Laboratoriumsdiagnostik und Mikrobiologie GmbH,"Bahnhofstraße 26A, 82256 Fürstenfeldbruck, Germany",11.263867,48.1720674
+2726,Laboratory for Extreme Photonics,"Am Coulombwall 1a, 85748 Garching bei München, Germany",11.6737944,48.2693404
+2727,Mc Labor - der Dienstleister für Analyse- Labor- und Medizintechnik,"Riesestraße 38, 72459 Albstadt, Germany",8.903983,48.22646899999999
+2730,MVZ Labor Limbach München GmbH,"Richard-Strauss-Straße 80 - 82, 81679 München, Germany",11.6184121,48.1483913
+2733,Labor-Praxisklinik GbR Dr. Kübler & Partner,"Siebertstraße 6 D, 81675 München, Germany",11.60043,48.14352
+2735,Engelbrecht Medizin- und Labortechnik GmbH,"Tulpenstraße 20, 82110 Germering, Germany",11.38174,48.13424
+2737,BSL BIOSERVICE Scientific Laboratories Munich GmbH,"Behringstraße 6/8, 82152 Planegg, Germany",11.4293401,48.10937
+2741,SYNLAB Labor München Zentrum Medizinisches Versorgungszentrum GbR,"Bayerstraße 53, 80335 München, Germany",11.5562815,48.1389715
+2743,Medizinisches Versorgungszentrum Labor im Bavariahaus,"Karlstraße 46, 80333 München, Germany",11.5607303,48.1450108
+2745,Instrumentation Laboratory GmbH,"Klausnerring 4, 85551 Kirchheim bei München, Germany",11.7465033,48.1522696
+2746,"SYNLAB Medizinisches Versorgungszentrum Traunstein, Zweigniederlassung der SYNLAB MVZ Augsburg GmbH","Cuno-Niggl-Straße 3, 83278 Traunstein, Germany",12.63157,47.87422
+2747,ArminLabs GmbH - Dr. med. Armin Schwarzbach,"Zirbelstraße 58, 86154 Augsburg, Germany",10.8786767,48.396413
+2748,Landwirtschaftliches Bodenlabor Dr. Eugen Lehle,"1, Heerstraße 37, 89150 Laichingen, Germany",9.738612999999999,48.496373
+2750,G. Heinemann Ultraschall- und Labortechnik,"Erwin-Rommel-Straße 42, 73525 Schwäbisch Gmünd, Germany",9.77998,48.79001
+2755,Institut für Laboratoriumsdiagnostik,"Robert-Koch-Allee 2, 82131 Gauting, Germany",11.35341,48.06635
+2761,Medizinisches Labor Rosenheim MVZ GbR,"Pettenkoferstraße 10, 83022 Rosenheim, Germany",12.1309,47.86009
+2764,"Swisshealthmed GmbH, Fachlabor für Hormonanalysen.","Salzstraße 7, 83620 Feldkirchen-Westerham, Germany",11.8463286,47.9082962
+2765,LMS Laboratory and Medical Supplies,"Gewerbestraße 6, 78086 Brigachtal, Germany",8.469472,48.016727
+2766,Zentrum für Humangenetik und Laboratoriumsdiagnostik,"Lochhamer Str. 29, 82152 Planegg, Germany",11.4515871,48.11224199999999
+2768,"SYNLAB Berchtesgaden, Zweigniederlassung der SYNLAB Holding Deutschland GmbH","Salzburger Str. 20, 83471 Berchtesgaden, Germany",13.013241,47.6389024
+2769,SYNLAB Analytics & Services Germany GmbH,"Okenstraße 101, 77652 Offenburg, Germany",7.946639999999999,48.48302
+2774,MVZ für Laboratoriumsdiagnostik Raubling GmbH,"Am Rossfeld 4, 83064 Raubling, Germany",12.1177,47.80131
+2775,Zytologielabor Rosenheim,"Kufsteiner Str. 7, 83022 Rosenheim, Germany",12.1265863,47.85322559999999
+2776,"MVZ Clotten Labor Dr. Haas, Dr. Raif & Kollegen GbR","Merzhauser Str. 112, 79100 Freiburg im Breisgau, Germany",7.830501000000001,47.978794
+2780,Future Care Lab,"Luisenstraße 17, 78120 Furtwangen im Schwarzwald, Germany",8.2018071,48.0590407
+2787,SYNLAB Analytics & Services Germany GmbH,"Hans-Iderfurth-Str 1, 77933 Lahr/Schwarzwald, Germany",7.820989999999999,48.32818
+2795,Ubiquitous Computing Lab,"Gebäude F, HTWG Konstanz, Alfred-Wachtel-Straße 8, 78462 Konstanz, Germany",9.170533299999999,47.6674565
+2797,Isar-Dental Zahntechnisches Labor GmbH,"Breslauer Weg 77, 82538 Geretsried, Germany",11.49041,47.85932
+2800,Dental-Labor Heinz GmbH,"Viehmarktpl. 6, 82418 Murnau am Staffelsee, Germany",11.2055272,47.6781394
+3084,KMG Klinikum Güstrow Zentrum für Labordiagnostik,"Friedrich-Trendelenburg-Allee 1, 18273 Güstrow, Germany",12.2005338,53.8111253
+3120,"Dietrich-Bonhoeffer-Klinikum Institut für Laboratoriumsdiagnostik, Mikrobiologie und Transfusionsmedizin","Salvador-Allende-Straße 30, 17036 Neubrandenburg, Germany",13.2933708,53.5467567
+3261,Dr.rer.nat. Sigrid Tschöke Johanniter-Krankenhaus Abt.Laboratoriumsmedizin,"Wendstraße 31, 39576 Stendal, Germany",11.85456,52.61096
+4448,Clinics Erlabrunn gGmbH,"Am Märzenberg 1A, 08359 Breitenbrunn/Erzgebirge, Germany",12.70911,50.47448
+4467,MEDINOS Kliniken des Landkreises Sonneberg GmbH Zentrallabor,"Neustädter Str. 61, 96515 Sonneberg, Germany",11.1630924,50.3541932
+4549,Städtische Kliniken Frankfurt Institut für Laboratoriumsmedizin,"Gotenstraße 8, 65929 Frankfurt am Main, Germany",8.5451126,50.1064757
+5192,HT Labor + Hospitaltechnik AG,"Rambacher Str. 2, 91180 Heideck, Germany",11.1185524,49.1295276
+5330,Kreisklinik München-Pasing Labor,"Steinerweg 5, 81241 München, Germany",11.4541301,48.1447
+5972,Herr Dr. med. Jörn Glabasnia,"Heiligengeisthöfe 17, 26121 Oldenburg, Germany",8.2125495,53.1445719
+6468,Dr. rer. nat. Jürgen Scheidt Facharzt f. Laboratoriumsmed.,"Dr.-Kurt-Schumacher-Straße 23, 39576 Stendal, Germany",11.83512,52.60225
+6514,Marianne Bringemeier Fachärztin f.Laboratoriumsmed.,"Bramscher Str. 2-4, 49088 Osnabrück, Germany",8.043759999999999,52.28279999999999
+6540,Peter Labuhn,"Blumenthalstraße 14, 39576 Stendal, Germany",11.8531204,52.5997898
+6733,Ärztliches Labor,"Am Kleistpark 1, 15230 Frankfurt (Oder), Germany",14.5422772,52.34370029999999
+7250,Praxis & Schlaflabor - Dr. med. Gabriele Reichert,"Friedrich-Ebert-Straße 110, 34119 Kassel, Germany",9.4706294,51.3163048
+7879,Dr. med. Jasmin Inraske Fachärztin f. Laboratoriumsmed.,"Rabanusstraße 35, 36037 Fulda, Germany",9.6815699,50.55005999999999
+8934,M & M HNO Klinik GmbH Schlaflabor,"Friedrich-Paffrath-Straße 98, 26389 Wilhelmshaven, Germany",8.0845431,53.545253
+8939,Ubbo-Emmius-Klinik Aurich Zentrallabor,"Wallinghausener Straße 8, 26603 Aurich, Germany",7.4965188,53.4681447
+9381,Dermatohistologisches Labor,"Lindenstraße 12, 21244 Buchholz in der Nordheide, Germany",9.881689999999999,53.32677959999999
+11073,DENTAL-LABOR Holger Steinberg,"Hochstraße 19, 53783 Eitorf, Germany",7.452202599999999,50.7710738
+11232,Klinikum Bayreuth Institut für Laboratoriumsdiagnostik und Mikrobiologie,"Preuschwitzer Str. 101, 95445 Bayreuth, Germany",11.53402,49.94356
+11291,"Dr. med. Ludger Blecher, Lungenfacharzt, Schlaflabor","Grabenberg 2A, 97070 Würzburg, Germany",9.932191399999999,49.79687500000001
+11293,A&D Ästhetik und Dentallabor,"Bahnhofstraße 13, 95473 Creußen, Germany",11.62644,49.84626
+11311,Frau Dr. med. Sabine Laber-Szillat,"Hauptstraße 6, 63457 Hanau, Germany",8.94533,50.10411999999999
+11968,Labor für Dermatohistologie und Oralpathologie Facharzt für Haut- und Geschlechtskrankheiten,"Bayerstraße 69, 80335 München, Germany",11.5542965,48.1389272
+12532,Ambulatory sleep center sleep laboratory Rheine,"Sprickmannstraße 36, 48431 Rheine, Germany",7.4276255,52.27644799999999
+12607,MVZ Labor Limbach,"Auf den Pohläckern 12, 31275 Lehrte, Germany",9.9932251,52.3661571
+13071,Hubschrauberlandeplatz Kliniken Erlabrunn,"08359 Breitenbrunn, Germany",12.7070849,50.4718101
+13315,Forschungs- und Laborgebäude,"Kirrberger Str., 66424 Homburg, Germany",7.3485191,49.30672449999999
+13862,"Euregio-Klinik, Pränatalabteilung","Albert-Schweitzer-Straße 10, 48527 Nordhorn, Germany",7.065799999999999,52.44269999999999
+14332,Asklepios Klinik Weißenfels Zentrallabor,"Naumburger Str. 76, 06667 Weißenfels, Germany",11.9564216,51.1947266
+14442,CELENUS Klinik Carolabad,"Riedstraße 32, 09117 Chemnitz, Germany",12.8185133,50.81927349999999
+19354,Klinikum Kassel GmbH Institut für Labormedizin,"Mönchebergstraße 41, 34125 Kassel, Germany",9.5094086,51.3269514
+20009,Four Steps Rehabilitationseinrichtung für Drogen- und Alkoholabhängige,"Grabenstraße 28, 73614 Schorndorf, Germany",9.524296999999999,48.80701759999999
+20646,Dr.med. Matthias Götzrath Ilm Kreis-Kliniken Abt.Laboratoriumsmedizin,"Oehrenstöcker Str. 32, 98693 Ilmenau, Germany",10.9166421,50.67906430000001
+21641,most wanted Labrador,"Nebraskastraße, 70806 Kornwestheim, Germany",9.221682,48.866921
+21884,HELIOS Klinikum Schwerin Institut für Laboratoriums-und Transfusionsmedizin,"Wismarsche Str. 393, 19055 Schwerin, Germany",11.4119201,53.65367
+22998,Dentallabor Thomas Lang,"Einsiedler Neue Str. 30, 09123 Chemnitz, Germany",12.9732169,50.7668095
+23538,"Dr. Thomas Labuda, Praxisvertretungen Radiologie","Fuchsweg 44, 89275 Elchingen, Germany",10.04893,48.445616
+24162,IZA Institute of Labor Economics,"Schaumburg-Lippe-Straße 5-9, 53113 Bonn, Germany",7.1094364,50.7300584
+24237,VITLAB GmbH,"Linus-Pauling-Straße 1, 63762 Großostheim, Germany",9.07092,49.93432
+27023,Labouvie-Fahr-Becker,"Marktstraße 14, 36037 Fulda, Germany",9.67715,50.55086
+28115,Labertal Apotheke,"Obere Hauptstraße 13, 92364 Deining, Germany",11.5384037,49.2254637
